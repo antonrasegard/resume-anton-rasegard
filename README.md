@@ -1,6 +1,6 @@
 # CV Website
 
-This is a resume website made from a Code Institute template and for Anton Rasegård; the Swedish multi talent.
+This is a resume website made from a Code Institute template and for Anton Rasegård; the marvellous Swedish multi talent.
 
 ## Usage
 
